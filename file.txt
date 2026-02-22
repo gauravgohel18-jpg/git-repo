@@ -1,1 +1,2 @@
-line for v3 in master
+line for v3
+>>>>>>> B1
